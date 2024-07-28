@@ -108,7 +108,7 @@
 2. Combo meals can contain dishes and other combos
 3. Calling methods on combos recursively calculates totals
 
-
+# Exercise 2
 # Astronaut Daily Schedule Organizer
 
 ## Overview
